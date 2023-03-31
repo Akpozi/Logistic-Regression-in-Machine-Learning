@@ -22,3 +22,7 @@ On the basis of the categories, Logistic Regression can be classified into three
 - Predicting the test result
 - Test accuracy of the result(Creation of Confusion matrix)
 - Visualizing the test set result.
+
+
+Check out the code for more details:
+[Logistic_regression_ML](https://github.com/Akpozi/Logistic-Regression-in-Machine-Learning/blob/main/Logistic_regression_ML.ipynb)
